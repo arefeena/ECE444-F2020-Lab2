@@ -10,7 +10,9 @@ The screenshot below shows a succesful import of `flask` in a virtual environmen
 
 ## Activity 2
 
-todo
+The screenshot below shows a successful run of the `hello.py` flask application. The path of `/user/Amar` greets `Amar` with a customized Hello World message.
+
+![Dynamic routing in hello.py](/images/activity-2-success.png)
 
 ## Activity 3
 
